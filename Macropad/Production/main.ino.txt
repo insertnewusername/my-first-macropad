@@ -1,5 +1,0 @@
-void setup() {
-}
-// I'll add the logic once i get hardware cuz i wanna experiment dw
-void loop() {
-}
