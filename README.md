@@ -23,16 +23,16 @@ BOM
 
 Here's what I need to create the hackpad:
 
-6x Cherry MX Switches
-6x DSA Keycaps
-4x M3x5x4 Heatset inserts
-4x M3x12mm SHSC Bolts
-6x 1N4148 DO-35 Diodes
-1x XIAO RP2040
-1x Case (2 3D printed parts to assemble case I hope I get a 3d printer sometime next year)
-1x Soldering Iron (I'm new to hardware - this is my first project)
-
-(Optional - I'll try add these later but pls give cuz i'll find a way to add em)
-2x WS2812B LEDs
-1x 0.91" 128x32 OLED Display
+6x Cherry MX Switches <br>
+6x DSA Keycaps <br>
+4x M3x5x4 Heatset inserts <br>
+4x M3x12mm SHSC Bolts <br>
+6x 1N4148 DO-35 Diodes <br>
+1x XIAO RP2040 <br>
+1x Case (2 3D printed parts to assemble case I hope I get a 3d printer sometime next year) <br>
+1x Soldering Iron (I'm new to hardware - this is my first project)<br>
+<br>
+(Optional - I'll try add these later but pls give cuz i'll find a way to add em)<br>
+2x WS2812B LEDs<br>
+1x 0.91" 128x32 OLED Display<br>
 
