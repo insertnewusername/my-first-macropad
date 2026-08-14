@@ -6,7 +6,8 @@ Made this to experiment with hardware, as I thought this would be a nice first p
 
 <h1>CAD Model: </h1><br>
 Made a basic frame for all the keys and usb. Hopefully everthing works out!
-<img width="1141" height="722" alt="image" src="https://github.com/user-attachments/assets/8b667b99-9051-4572-8ee5-d68e66778d14" />
+![Uploading Screenshot 2026-08-14 203922.png…]()
+
 
 
 
