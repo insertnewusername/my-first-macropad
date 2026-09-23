@@ -3,6 +3,16 @@
 My-first-macropad is.... My first macropad.
 Made this to experiment with hardware, as I thought this would be a nice first project for me. Still decide what the buttons should do, they'll probably like execute simple commands such as opening task manager, I'll figure it out once I get the hardware and update this.
 
+<H1>HARDWARE!!!</H1>
+Ok so this was my first time soldering and assembling a pcb, so I screwed up a lot, and it took me a while to figure everything out (still need practice), and after I finished doing everything, getting the firmware done was a nightmare, so asked AI how do i make QMK not gimme that many error messages and what's wrong, eventually got there. Case is still pending, but the overall thing is done, so I don't think a case is that strictly required
+
+IMAGES!!!!
+
+(BTW I messed up the pcb which is why the usb for xiao is faced that way oopsies)
+
+<img width="1920" height="1080" alt="WIN_20260923_18_24_11_Pro" src="https://github.com/user-attachments/assets/6a3e42a2-e329-42aa-823f-d859e0b4fc46" />
+<img width="1920" height="1080" alt="WIN_20260923_18_24_08_Pro" src="https://github.com/user-attachments/assets/c8bfb0d9-581c-4af5-a848-74d83448d17c" />
+<img width="1920" height="1080" alt="WIN_20260923_18_24_04_Pro" src="https://github.com/user-attachments/assets/4eb08a91-b0ee-44fc-808a-50d63a5e9fa9" />
 
 <h1>CAD Model: </h1><br>
 Made a basic frame for all the keys and usb. Hopefully everthing works out!
